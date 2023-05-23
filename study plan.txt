@@ -1,3 +1,0 @@
-operating system
-C++
-matlab especially sinmulink
